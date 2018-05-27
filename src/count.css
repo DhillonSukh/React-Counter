@@ -1,0 +1,28 @@
+body{
+    background-color: #09121C;
+}
+
+.count-title{
+    color: #8EE181;
+    text-align: center;
+}
+
+.card{
+    margin:70px;
+    box-shadow: 2px 3px 8px  #8EE181;
+}
+
+.btn-primary{
+    background-color: #8EE181;
+    border: transparent;
+    padding: 20px;
+    width: 80px;
+    margin: 20px;
+    color: #09121C;
+}
+
+.btn-primary:hover{
+    border: 2px solid #8EE181;
+    background-color: #09121C;
+    color: #8EE181;
+}
